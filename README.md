@@ -10,9 +10,9 @@ District level analysis:
 
 - calculations were made for the following and created high-level snapshot of the district's key metrics in a DataFrame.
     
-        - Total number of unique schools
-
         - Total students
+
+        - Total number of unique schools
 
         - Total budget
 
